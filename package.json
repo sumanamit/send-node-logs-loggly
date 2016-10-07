@@ -1,0 +1,15 @@
+{
+  "name": "Send Node Logs to Loggly",
+  "version": "1.0.0",
+  "private": false,
+  "author": "Amit",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sumanamit/node-loggly.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "winston": "2.2.0",
+    "winston-loggly-bulk": "1.3.3"
+  }
+}
